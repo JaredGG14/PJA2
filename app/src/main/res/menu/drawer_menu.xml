@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home"
+            android:checked="true"
+            />
+        <item
+            android:id="@+id/nav_savings2"
+            android:icon="@drawable/ic_saves"
+            android:title="@string/menu_savings" />
+        <item
+            android:id="@+id/nav_cards"
+            android:icon="@drawable/ic_cards"
+            android:title="@string/menu_card" />
+        <item
+            android:id="@+id/nav_cash2"
+            android:icon="@drawable/ic_cash"
+            android:title="@string/menu_cash" />
+        <item
+            android:id="@+id/nav_ticket2"
+            android:icon="@drawable/ic_ticket"
+            android:title="@string/menu_tickets" />
+        <item
+            android:id="@+id/nav_spents2"
+            android:icon="@drawable/ic_spents"
+            android:title="@string/menu_spents" />
+        <item
+            android:id="@+id/settingsFragment"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/menu_settings" />
+        <item
+            android:id="@+id/nav_howto2"
+            android:icon="@drawable/ic_howto"
+            android:title="@string/menu_howto" />
+        <item
+            android:id="@+id/nav_rateus"
+            android:icon="@drawable/ic_rate"
+            android:title="@string/menu_rateus" />
+        <item
+            android:id="@+id/nav_contact2"
+            android:icon="@drawable/ic_contact_us"
+            android:title="@string/menu_contact" />
+    </group>
+</menu>

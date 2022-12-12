@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/drawable-v24/add.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/drawable-v24/add_floatingbtn.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/drawable-v24/bullet_list.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/drawable-v24/credit_card.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/drawable/camera.xml" value="0.122" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/drawable/img_placeholder.xml" value="0.122" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/drawable/save.xml" value="0.122" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout-w936dp/item.xml" value="0.15" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_account_settings.xml" value="0.1859375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_add_card.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_add_cash.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_add_income_outcome.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_add_saving.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_add_spent.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_add_ticket.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_card.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_how_to_card.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_how_to_delete.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_how_to_io.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_how_to_lang.xml" value="0.1859375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_how_to_ticket.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_login_actiivty.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_ph_add_card.xml" value="0.1859375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_ph_add_saving.xml" value="0.1859375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_preview_ticket.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/activity_upload_image.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/card_rv.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/cash_rv.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_card_ms.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_cash_ms.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_contact_ms.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_home_ms.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_how_to_ms.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_rate_us_ms.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_savings_ms.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_setting_ms.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_spent_ms.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/fragment_ticket_ms.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/item.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/save_item.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/saving_rv.xml" value="0.2891566265060241" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/spents_rv.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/menu/drawer_menu.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/PJA2/app/src/main/res/menu/options_menu.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

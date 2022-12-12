@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PJ Accounting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_header_title">PJ Accounting</string>
+    <string name="nav_header_subtitle">Bienvenido usuario</string>
+    <string name="menu_home">Pagina principal</string>
+    <string name="menu_savings">Ahorros</string>
+    <string name="menu_card">Tarjetas</string>
+    <string name="menu_cash">Efectivo</string>
+    <string name="menu_tickets">Tickets</string>
+    <string name="menu_spents">Gastos</string>
+    <string name="menu_settings">Configuracion</string>
+    <string name="menu_howto">Cómo hacerlo?</string>
+    <string name="menu_rateus">Calificanos</string>
+    <string name="menu_contact">Contactanos</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Open Close</string>
+    <string name="AddIncOutTxt">Añadir Ingreso | Egreso</string>
+    <string name="CardNumbers">XXXX - XXXX - XXXX - XXXX</string>
+    <string name="CardTypeTxt">Tipo de tarjeta</string>
+    <string name="CardDate1">00/00</string>
+    <string name="CardDate2">00/00</string>
+    <string name="HistoryTxt">Ver historial</string>
+    <string name="tittle_start_text">Iniciar</string>
+    <string name="boton_inicio">Avancemos</string>
+    <string name="start_name_edit_text">Ingresa tu nombre</string>
+    <string name="add_saving_text">Añadir ahorro</string>
+    <string name="add_saving_description">Tipo de ahorro</string>
+    <string name="agrega_el_monto">Añadir monto</string>
+    <string name="card_2_text">Tarjeta 2\nFecha de corte\nFecha de pago</string>
+    <string name="Card_1_tetx">Tarjeta 1\nFecha de corte\nFecha de pago</string>
+    <string name="AddCardtxt1">Nombre</string>
+    <string name="addCardHint1">Nombre del metodo</string>
+    <string name="addCardTxt2">Tipo</string>
+    <string name="addCardTxt3">Fecha de corte</string>
+    <string name="addCardTxt4">Fecha de pago</string>
+    <string name="addCardTitle">Nuevo metodo de pago</string>
+    <string name="CardsTitle">Tarjetas</string>
+    <string name="addSpent">Añadir</string>
+    <string name="hint_addincout1">Añadir monto</string>
+    <string name="label_d">Descriocion</string>
+    <string name="editDescription">Añadoir descripcion</string>
+    <string name="spinner_addincout1">Seleccionar metodo</string>
+    <string name="income_outcome">Ingreso | Egreso</string>
+    <string name="amount">Monto</string>
+    <string name="date_text">Fecha</string>
+    <string name="date_hint">DD/MM/YYYY</string>
+    <string name="set_up_today">Asignar a hoy</string>
+    <string name="spents_tittle">Gastos</string>
+    <string name="CashTxt">Efectivo</string>
+    <string name="add_cash_txt">Añadir efectivo</string>
+    <string name="save">Guardar</string>
+    <string name="htaddCart">Añadir una tarjeta</string>
+    <string name="htaddIncome">Añadir Ingreso/Egreso</string>
+    <string name="htconfiglang">Modificar idioma</string>
+    <string name="htaddTicket">Añadir ticket</string>
+    <string name="htaddDeleteData">Eliminar datos</string>
+
+    <string-array name="typeSaving">
+        <item>Tarjeta de credito</item>
+        <item>Tarjeta de debito</item>
+        <item>Efectivo</item>
+        <item>Otros</item>
+    </string-array>
+    <string-array name="seleccionar_dia">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="typeIncomeOutcome">
+        <item>Ingreso</item>
+        <item>Egreso</item>
+    </string-array>
+
+    <string name="step1_htaddcart">1.- Ir a la seccion tarjetas</string>
+    <string name="step2_htaddcart">2.- Presionar el boton \'+\'</string>
+    <string name="step3_htaddcart">3.- Llenar los campos reuqeridos</string>
+    <string name="step4_htaddcart">4.- Presionar el boton guardar</string>
+    <string name="step5_htaddcart">5.- La tarjeta se ha guardado exitosamente</string>
+
+    <string name="step1_htadd_ic">1.- Ir a la seccion de efectivo</string>
+    <string name="step2_htadd_ic">2.- Presionar le boton +</string>
+    <string name="step3_htadd_ic">3.- Llenar la informacion requerida</string>
+    <string name="step4_htadd_ic">4.- Presionar el boton guardar</string>
+    <string name="step5_htadd_ic">5.- Los datos se han guardado correctamente</string>
+
+    <string name="step1_htconflan">1.- Ir a la seccion de configuracion</string>
+    <string name="step2_htconflan">2.- Ir a la seccion de idioma</string>
+    <string name="step3_htconflan">3.- Seleccionar la opcion de su preferencia</string>
+    <string name="step4_htconflan">4.- Presionar la opcion deseada</string>
+    <string name="step5_htconflan">5.- El idioma se ha configurado exitosamente</string>
+    <string name="titleincout">Como añadir ingreso o egreso</string>
+    <string name="ht_outinc_title">Como añadir ingreso o egreso</string>
+    <string name="ht_addticket_title">Añadir un ticket</string>
+    <string name="step1_ticket">Seleccionar la opcion ticket en el menu</string>
+    <string name="Step2_ticket">En la pagina principal se podrán ver los tickets guardados</string>
+    <string name="Step3Ticket">Presionar le boton añadir para abrir la camara o seleccionar una imagen</string>
+    <string name="Step4_ticket">Tomar la foto y presionar el boton guardar</string>
+    <string name="Step5_ticket">Veras los tickets guardados en la pantalla</string>
+    <string name="ht_empty_title">Como eliminar la informacion</string>
+    <string name="step1_empty">Dirigirse al menu</string>
+    <string name="Step2_empty">Ir a la seccion menu</string>
+    <string name="Step3_empty">Dezplisarse hasta la opcion eliminar datos</string>
+    <string name="Step4_empty">Presionar eliminar informacion</string>
+    <string name="Step5_empty">Confirmar</string>
+    <string name="ht_lang_title">Como cambiar el lenguaje</string>
+    <string name="iv_photo">Foto</string>
+    <string name="title_howto_card">Como añadir una tarjeta</string>
+    <string name="title_activity_how_to_ticket">Como añadir un ticket</string>
+    <string name="prompt_email">Correo electronico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión o registrarse</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="welcome">"Bienvenido"</string>
+    <string name="invalid_username">Nombre de usuario no valido</string>
+    <string name="invalid_password">Contraseña muy corta</string>
+    <string name="login_failed">Fallo en el inicio se sesión</string>
+    <string name="rate_us_fr">Calificanos en progreso jeje, esperando a publicar la aplicacion</string>
+    <string name="camera">Cámara</string>
+    <string name="upload">Subir</string>
+    <string name="uploading">Subiendo...</string>
+    <string name="upload_success">Imagen guardada exitosamente!</string>
+    <string name="upl_fail">Fallo al guardar</string>
+    <string name="loading">Cargando</string>
+    <string name="languaje">Languaje</string>
+    <string name="select_languaje">Seleccionar idioma</string>
+    <string name="push_notifications">Notificaciones Push</string>
+    <string name="cutt_off">Fecha de corte</string>
+    <string name="limite_reached">Limite alcanzado</string>
+    <string name="payment_date">Fecha de pago</string>
+    <string name="account">Cuenta</string>
+    <string name="modify_information">Modificar informacion</string>
+    <string name="empty_data">Borrar datos</string>
+    <string name="theme">Tema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Obscuro</string>
+    <string name="system_default">Default de sistema</string>
+    <string name="go_to_the_video">Ir al video</string>
+    <string name="boton_inicio2">Registrarse</string>
+    <string name="logincontraseña">Contraseña</string>
+    <string name="loginemail">Correo electronico</string>
+    <string name="Sigin_text">Registrarse</string>
+    <string name="Sigin_email">Correo electronico</string>
+    <string name="sigin_password">Contraseña</string>
+    <string name="Sigin_pass_confirm">Confirmar contraseña</string>
+    <string name="savetxt">Dia seleccionado</string>
+    <string name="date">Fecha</string>
+    <string name="empty_data_message">Seguro que desea vaciar\n</string>
+    <string name="empty_data_message_2">toda su informacion? Eso incluye\n</string>
+    <string name="empty_data_message_3">sus tarjetas, gastos, informacion\n</string>
+    <string name="empty_data_message_4">personal y tickets</string>
+    <string name="confirm_btn">Confirmar</string>
+    <string name="cancel_btn">Cancelar</string>
+    <string name="date_txt">Fecha</string>
+    <string name="saved_amount_txt">Monto ahorrado</string>
+    <string name="cash_amount_txt">Monto en efectivo</string>
+    <string name="type_txt">Tipo</string>
+    <string name="cash_amount_txt1">Monto en efectivo</string>
+    <string name="card_name">Card name</string>
+
+</resources>
